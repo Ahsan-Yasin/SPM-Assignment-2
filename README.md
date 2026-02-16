@@ -1,2 +1,2 @@
 # SPM-Assignment-2
-this is assingment 2
+THIS IS MY SPM ASSIGNMENT 2
